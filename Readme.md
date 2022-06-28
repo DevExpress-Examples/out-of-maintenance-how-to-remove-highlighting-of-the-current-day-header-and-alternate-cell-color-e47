@@ -27,7 +27,8 @@ These elements are rendered according to the alternate styles and background bru
 <img src="https://raw.githubusercontent.com/DevExpress-Examples/how-to-remove-highlighting-of-the-current-day-header-and-alternate-cell-color-e4747/12.2.10+/media/e514375e-a8bd-4c5c-992f-4456f2cb0097.png">
 
 ## See Also
-<a href="https://www.devexpress.com/Support/Center/p/E3450">How to customize the SchedulerControl presentation differently for different themes</a>
-<a href="https://www.devexpress.com/Support/Center/p/E4012">How to customize the SchedulerControl presentation in the same manner for different themes</a>
+
+* <a href="https://www.devexpress.com/Support/Center/p/E3450">How to customize the SchedulerControl presentation differently for different themes</a>
+* <a href="https://www.devexpress.com/Support/Center/p/E4012">How to customize the SchedulerControl presentation in the same manner for different themes</a>
 
 
